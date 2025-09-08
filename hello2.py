@@ -1,1 +1,1 @@
-print("BASE")
+print("MAIN")
