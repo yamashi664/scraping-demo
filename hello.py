@@ -1,5 +1,6 @@
 def main():
-    print("Hello from FEATURE!")
+    print("Hello world")
+    print("MAIN")
 
 if __name__ == "__main__":
     main()
