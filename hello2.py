@@ -1,3 +1,0 @@
-
-print("FEATURE")
-print("MAIN")
